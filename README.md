@@ -11,7 +11,6 @@ Python | JavaScript | Node.js | Express | NLP | MySQL | HTML | CSS
 
 #### 🔗 Links:
 - Portfolio: https://sasi-portfolio-ehwb.onrender.com/
-- Email: [your email]
+- Email: [sasikumarsabbana@gmail.com]
 
-⭐ Looking for Intern / Junior Developer Roles in Python / AI / Full Stack# sasikumarsabbana-svg-
-My personal profile
+⭐ Looking for Intern / Junior Developer Roles in Python / AI / Full Stack
